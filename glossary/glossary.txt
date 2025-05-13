@@ -1,0 +1,12 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+регистр накопления	accumulation register
+движения документа	document movements
+атрибут	    attribute
+режим разработки	development mode
+режим пользователя	user mode
+движения документа	document movements
+конструктор движений	movement constructor
+приходная накладная	incoming invoice
+остатки материалов	material remaining register
+подсистема	subsystem
+

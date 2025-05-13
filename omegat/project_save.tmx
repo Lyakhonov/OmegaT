@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="ru-RU"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>//</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114252Z" creationid="lyserg" creationdate="20250513T114252Z">
+        <seg>//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>// Данный фрагмент построен конструктором.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114247Z" creationid="lyserg" creationdate="20250513T114247Z">
+        <seg>// Данный фрагмент построен конструктором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>// При повторном использовании конструктора внесенные вручную</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114249Z" creationid="lyserg" creationdate="20250513T114249Z">
+        <seg>// При повторном использовании конструктора внесенные вручную</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>// регистр ОстаткиМатериалов Приход</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114307Z" creationid="lyserg" creationdate="20250513T114307Z">
+        <seg>// регистр ОстаткиМатериалов Приход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>//{{__КОНСТРУКТОР_ДВИЖЕНИЙ_РЕГИСТРОВ</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114245Z" creationid="lyserg" creationdate="20250513T114245Z">
+        <seg>//{{__КОНСТРУКТОР_ДВИЖЕНИЙ_РЕГИСТРОВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>//}}__КОНСТРУКТОР_ДВИЖЕНИЙ_РЕГИСТРОВ</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114325Z" creationid="lyserg" creationdate="20250513T114325Z">
+        <seg>//}}__КОНСТРУКТОР_ДВИЖЕНИЙ_РЕГИСТРОВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>6.3.&lt;t0/&gt; Определение списка подсистем, в которых будет отражаться регистр</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T165120Z" creationid="lyserg" creationdate="20250511T165120Z">
+        <seg>6.3.&lt;t0/&gt; Defining the list of subsystems in which the register will be reflected</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>6.4.&lt;t0/&gt; Создание измерений регистра</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T112919Z" creationid="lyserg" creationdate="20250513T112919Z">
+        <seg>6.4.&lt;t0/&gt; Creating register dimensions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>6.&lt;t0/&gt;5&lt;t1/&gt;.&lt;t2/&gt; Регистр «&lt;t3/&gt;ОстаткиМатериалов&lt;t4/&gt;»</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T121452Z" creationid="lyserg" creationdate="20250513T113031Z">
+        <seg>6.&lt;t0/&gt;5&lt;t1/&gt;.&lt;t2/&gt; Register "&lt;t3/&gt;ОстаткиМатериалов&lt;t4/&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>6.&lt;t0/&gt;6&lt;t1/&gt;.&lt;t2/&gt; Создание движений документа «&lt;t3/&gt;ПриходнаяНакладная&lt;t4/&gt;» в регистре «&lt;t5/&gt;ОстаткиМатериалов&lt;t6/&gt;»</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T121822Z" creationid="lyserg" creationdate="20250513T113534Z">
+        <seg>6.&lt;t0/&gt;6&lt;t1/&gt;.&lt;t2/&gt; Creation of document movements “&lt;t3/&gt;ПриходнаяНакладная&lt;t4/&gt;” in the register “&lt;t5/&gt;ОстаткиМатериалов&lt;t6/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>6.&lt;t0/&gt;7&lt;t1/&gt;.&lt;t2/&gt; Список регистра накопления «&lt;t3/&gt;Остатки &lt;t4/&gt;материалов&lt;t5/&gt;»</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114615Z" creationid="lyserg" creationdate="20250513T114615Z">
+        <seg>6.&lt;t0/&gt;7&lt;t1/&gt;.&lt;t2/&gt; List of accumulation register "&lt;t3/&gt;Remaining &lt;t4/&gt;materials&lt;t5/&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В &lt;t0/&gt;пользовательском &lt;t1/&gt;режиме</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114423Z" creationid="lyserg" creationdate="20250513T114423Z">
+        <seg>In &lt;t0/&gt;user &lt;t1/&gt;mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В нижнем окне сформируется соответствие &lt;t6/&gt;атрибутов&lt;t7/&gt; регистра и &lt;t8/&gt;документа&lt;t9/&gt;.&lt;t10/&gt; К&lt;t11/&gt;онструктор движений установил соответствия подходящим образом: в качестве материала в регистр будет записан материал из табличной части документа, в качестве склада – склад, указанный в шапке документа, а в качестве количества – количество из табличной части документа.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T113713Z" creationid="lyserg" creationdate="20250513T113713Z">
+        <seg>In the lower window, a correspondence will be formed between the &lt;t6/&gt;attributes&lt;t7/&gt; of the register and the &lt;t8/&gt;document&lt;t9/&gt;.&lt;t10/&gt; The &lt;t11/&gt;movement constructor has set the correspondences in the appropriate way: the material from the document's tabular section will be recorded in the register as the material, the warehouse specified in the document's header as the warehouse, and the quantity from the document's tabular section as the quantity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В открывшемся окне мы видим, что в панели функций разделов &lt;t0/&gt;Бухгалтерия&lt;t1/&gt;, &lt;t2/&gt;Оказание услуг&lt;t3/&gt; и &lt;t4/&gt;Учет материалов&lt;t5/&gt; в конце списка команд для открытия различных списков, перед подменю &lt;t6/&gt;Создать&lt;t7/&gt;, &lt;t8/&gt;Отчеты&lt;t9/&gt; (если они есть) появилась команда для открытия списка регистра &lt;t10/&gt;Остатки материалов&lt;t11/&gt; (рис. 6.&lt;t12/&gt;8&lt;t13/&gt;).</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114552Z" creationid="lyserg" creationdate="20250513T114552Z">
+        <seg>In the window that opens, we see that in the function panel of the sections &lt;t0/&gt;Accounting&lt;t1/&gt;, &lt;t2/&gt;Services&lt;t3/&gt; and &lt;t4/&gt;Accounting of materials&lt;t5/&gt; at the end of the list of commands for opening various lists, before the submenu &lt;t6/&gt;Create&lt;t7/&gt;, &lt;t8/&gt;Reports&lt;t9/&gt; (if they exist) a command has appeared for opening the register list &lt;t10/&gt;Material balances&lt;t11/&gt; (pic. 6.&lt;t12/&gt;8&lt;t13/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В открывшемся окне редактирования объекта на закладке &lt;t0/&gt;Основные&lt;t1/&gt; зададим имя регистра – &lt;t2/&gt;ОстаткиМатериалов&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T121104Z" creationid="lyserg" creationdate="20250511T164624Z">
+        <seg>In the opened object editing window, on the &lt;t0/&gt;Main&lt;t1/&gt; tab, we will set the register name – &lt;t2/&gt;ОстаткиМатериалов&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В режиме &lt;t0/&gt;разработки</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T164106Z" creationid="lyserg" creationdate="20250511T164106Z">
+        <seg>In &lt;t0/&gt;development mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>В результате этих действий регистр &lt;t0/&gt;ОстаткиМатериалов&lt;t1/&gt; должен иметь следующий вид (рис. 6.&lt;t2/&gt;5&lt;t3/&gt;).</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T121433Z" creationid="lyserg" creationdate="20250513T113011Z">
+        <seg>As a result of these actions, the register &lt;t0/&gt;ОстаткиМатериалов&lt;t1/&gt; should have the following appearance (pic. 6.&lt;t2/&gt;5&lt;t3/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Выделим закладку &lt;t0/&gt;Данные&lt;t1/&gt; и перейдем к созданию структуры регистра.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T112153Z" creationid="lyserg" creationdate="20250513T112153Z">
+        <seg>We will select the &lt;t0/&gt;Data&lt;t1/&gt; tab and proceed to creating the register structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Глоссарий</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114627Z" creationid="lyserg" creationdate="20250513T114627Z">
+        <seg>Glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движение = Движения.ОстаткиМатериалов.Добавить();</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114315Z" creationid="lyserg" creationdate="20250513T114315Z">
+        <seg>Движение = Движения.ОстаткиМатериалов.Добавить();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движение.ВидДвижения = ВидДвиженияНакопления.Приход;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114317Z" creationid="lyserg" creationdate="20250513T114317Z">
+        <seg>Движение.ВидДвижения = ВидДвиженияНакопления.Приход;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движение.Количество = ТекСтрокаМатериалы.Количество;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114323Z" creationid="lyserg" creationdate="20250513T114323Z">
+        <seg>Движение.Количество = ТекСтрокаМатериалы.Количество;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движение.Материал = ТекСтрокаМатериалы.Материал;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114320Z" creationid="lyserg" creationdate="20250513T114320Z">
+        <seg>Движение.Материал = ТекСтрокаМатериалы.Материал;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движение.Период = Дата;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114318Z" creationid="lyserg" creationdate="20250513T114318Z">
+        <seg>Движение.Период = Дата;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движение.Склад = Склад;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114321Z" creationid="lyserg" creationdate="20250513T114321Z">
+        <seg>Движение.Склад = Склад;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движения документа</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T113217Z" creationid="lyserg" creationdate="20250513T113217Z">
+        <seg>Document movements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движения документа&lt;t0/&gt; – это записи в регистрах, которые создаются в процессе проведения документа и отражают изменения, производимые документом.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T134245Z" creationid="lyserg" creationdate="20250513T113230Z">
+        <seg>Document movements&lt;t0/&gt; are records in registers that are created during the process of document posting and reflect the changes made by the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движения документа&lt;t0/&gt; – это записи в регистрах, которые создаются в процессе проведения документа и отражают изменения, производимые этим документом.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T134018Z" creationid="lyserg" creationdate="20250513T114647Z">
+        <seg>Document movements&lt;t0/&gt; are records in registers that are created during the process of document posting and reflect the changes made by this document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Движения.ОстаткиМатериалов.Записывать = Истина;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114309Z" creationid="lyserg" creationdate="20250513T114309Z">
+        <seg>Движения.ОстаткиМатериалов.Записывать = Истина;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Для Каждого ТекСтрокаМатериалы Из Материалы Цикл</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114312Z" creationid="lyserg" creationdate="20250513T114312Z">
+        <seg>Для Каждого ТекСтрокаМатериалы Из Материалы Цикл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Для накопления такой информации мы создадим регистр &lt;t3/&gt;Остатки&lt;t4/&gt; м&lt;t5/&gt;атериалов&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T164028Z" creationid="lyserg" creationdate="20250511T164028Z">
+        <seg>To accumulate such information, we will create a register &lt;t3/&gt;Remaining&lt;t4/&gt; m&lt;t5/&gt;aterials&lt;t6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Для этого выделим в дереве объектов ветвь &lt;t0/&gt;Регистры накопления&lt;t1/&gt; и нажмем кнопку &lt;t2/&gt;Добавить&lt;t3/&gt; в командной панели.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T164555Z" creationid="lyserg" creationdate="20250511T164555Z">
+        <seg>To do this, select the &lt;t0/&gt;Accumulation registers&lt;t1/&gt; branch in the object tree and click the &lt;t2/&gt;Add&lt;t3/&gt; button in the command panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Для этого выделим ветвь &lt;t0/&gt;Измерения&lt;t1/&gt; и нажмем кнопку &lt;t2/&gt;Добавить&lt;t3/&gt; в командной панели окна (рис. 6.4).</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T112848Z" creationid="lyserg" creationdate="20250513T112848Z">
+        <seg>To do this, select the branch &lt;t0/&gt;Dimensions&lt;t1/&gt; and click the button &lt;t2/&gt;Add&lt;t3/&gt; in the command bar of the window (Pic. 6.4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Если вы сейчас попытаетесь запустить &lt;t0/&gt;систему в пользовательском режиме&lt;t1/&gt;, то система выдаст сообщение об ошибке: «&lt;t2/&gt;РегистрНакопления.ОстаткиМатериалов&lt;t3/&gt;: Ни один из документов не является регистратором для регистра».</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T121536Z" creationid="lyserg" creationdate="20250513T113109Z">
+        <seg>If you now try to start &lt;t0/&gt;the system in user mode&lt;t1/&gt;, the system will return an error message: "&lt;t2/&gt;РегистрНакопления.ОстаткиМатериалов&lt;t3/&gt;: None of the documents are registrars for the register."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Запустим &lt;t0/&gt;систему&lt;t1/&gt; в &lt;t2/&gt;пользовательском &lt;t3/&gt;режиме и протестируем внесенные нами изменения.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114522Z" creationid="lyserg" creationdate="20250513T114522Z">
+        <seg>Let's run &lt;t0/&gt;the system&lt;t1/&gt; in &lt;t2/&gt;user &lt;t3/&gt;mode and test the changes we've made.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Количество&lt;t0/&gt;, тип &lt;t1/&gt;Число&lt;t2/&gt;;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T122438Z" creationid="lyserg" creationdate="20250513T112735Z">
+        <seg>Количество&lt;t0/&gt;, type &lt;t1/&gt;Число&lt;t2/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>КонецПроцедуры</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114327Z" creationid="lyserg" creationdate="20250513T114327Z">
+        <seg>КонецПроцедуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>КонецЦикла;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114324Z" creationid="lyserg" creationdate="20250513T114324Z">
+        <seg>КонецЦикла;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Листинг 6.1.&lt;t0/&gt; Процедура «&lt;t1/&gt;ОбработкаПроведения&lt;t2/&gt;()»</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T121957Z" creationid="lyserg" creationdate="20250513T114228Z">
+        <seg>Listing 6.1.&lt;t0/&gt; Процедура "&lt;t1/&gt;ОбработкаПроведения&lt;t2/&gt;()"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Материал&lt;t0/&gt;, тип &lt;t1/&gt;СправочникСсылка.Номенклатура&lt;t2/&gt;;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T122342Z" creationid="lyserg" creationdate="20250513T112341Z">
+        <seg>Материал&lt;t0/&gt;, type &lt;t1/&gt;СправочникСсылка.Номенклатура&lt;t2/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>На основе объекта &lt;t2/&gt;Регистр&lt;t3/&gt;Н&lt;t4/&gt;акопления&lt;t5/&gt; платформа создает в базе данных таблицы, в которых будут накапливаться данные, поставляемые различными объектами базы данных.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T122333Z" creationid="lyserg" creationdate="20250511T163521Z">
+        <seg>Based on the &lt;t2/&gt;Регистр&lt;t3/&gt;Н&lt;t4/&gt;акопления&lt;t5/&gt; object, the platform creates tables in the database in which data supplied by various database objects will be accumulated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Нажмем &lt;t0/&gt;Далее&lt;t1/&gt; и перейдем на закладку &lt;t2/&gt;Подсистемы&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T164815Z" creationid="lyserg" creationdate="20250511T164815Z">
+        <seg>Click &lt;t0/&gt;Next&lt;t1/&gt; and go to the &lt;t2/&gt;Subsystems&lt;t3/&gt; tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Нажмем ее и воспользуемся этим конструктором.&lt;t2/&gt; Н&lt;t3/&gt;ажмем кнопку &lt;t4/&gt;Заполнить выражения&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T113929Z" creationid="lyserg" creationdate="20250513T113645Z">
+        <seg>We will click it and use this constructor. We will &lt;t2/&gt;c&lt;t3/&gt;lick the &lt;t4/&gt;Fill expressions&lt;t5/&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Нажмем кнопку &lt;t0/&gt;OK&lt;t1/&gt; и посмотрим, какой текст сформировал конструктор в документ&lt;t2/&gt;е&lt;t3/&gt; &lt;t4/&gt;ПриходнаяНакладная&lt;t5/&gt; (листинг 6.1).</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T121902Z" creationid="lyserg" creationdate="20250513T114201Z">
+        <seg>We will press the &lt;t0/&gt;OK&lt;t1/&gt; button and see what text the designer generated in the documen&lt;t2/&gt;t&lt;t3/&gt; &lt;t4/&gt;ПриходнаяНакладная&lt;t5/&gt; (listing 6.1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Обратите внимание, что сразу после отметки выбранного регистра становится доступной кнопка &lt;t0/&gt;Конструктор движений&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T113601Z" creationid="lyserg" creationdate="20250513T113601Z">
+        <seg>Please note that immediately after marking the selected register, the &lt;t0/&gt;Movement Constructor&lt;t1/&gt; button becomes available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Объект &lt;t0/&gt;Регистр накопления&lt;t1/&gt; предназначен для описания структуры накопления данных.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T134105Z" creationid="lyserg" creationdate="20250511T161640Z">
+        <seg>The object &lt;t0/&gt;Accumulation register&lt;t1/&gt; is intended to describe the structure of data accumulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Откроем в &lt;t0/&gt;режиме разработки&lt;t1/&gt; &lt;t2/&gt;систему&lt;t3/&gt; и добавим новый объект &lt;t4/&gt;Регистр накопления&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T134201Z" creationid="lyserg" creationdate="20250511T164139Z">
+        <seg>Let's open the &lt;t0/&gt;system&lt;t1/&gt; in &lt;t2/&gt;development mode&lt;t3/&gt; and add a new object &lt;t4/&gt;Accumulation register&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Откроем окно редактирования объекта &lt;t0/&gt;Документ.ПриходнаяНакладная&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T122543Z" creationid="lyserg" creationdate="20250513T113437Z">
+        <seg>Let's open the window for editing the object &lt;t0/&gt;Документ.ПриходнаяНакладная&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Перейдем на закладку &lt;t2/&gt;Движения&lt;t3/&gt;, раскроем список &lt;t4/&gt;Регистры&lt;t5/&gt; &lt;t6/&gt;накопления&lt;t7/&gt; и отметим регистр накопления &lt;t8/&gt;ОстаткиМатериалов&lt;t9/&gt; &lt;t10/&gt;(рис. 6.7).</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T121737Z" creationid="lyserg" creationdate="20250513T113515Z">
+        <seg>We will go to the &lt;t2/&gt;Movements&lt;t3/&gt; tab, open the &lt;t4/&gt;Registers&lt;t5/&gt; &lt;t6/&gt;Accumulation&lt;t7/&gt; list and mark the accumulation register &lt;t8/&gt;ОстаткиМатериалов&lt;t9/&gt; &lt;t10/&gt; (pic. 6.7).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>По логике нашей конфигурации данный регистр должен быть доступен в разделах &lt;t0/&gt;Учет материалов&lt;t1/&gt;, &lt;t2/&gt;Оказание услуг&lt;t3/&gt; и &lt;t4/&gt;Бухгалтерия&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T164835Z" creationid="lyserg" creationdate="20250511T164835Z">
+        <seg>According to the logic of our configuration, this register should be available in the sections &lt;t0/&gt;Accounting of materials&lt;t1/&gt;, &lt;t2/&gt;Rendering services&lt;t3/&gt; and &lt;t4/&gt;Accounting&lt;t5/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Поэтому мы сформируем движения регистра накопления &lt;t0/&gt;ОстаткиМатериалов&lt;t1/&gt; &lt;t2/&gt;для&lt;t3/&gt; двух созданных нами документов &lt;t4/&gt;ПриходнаяНакладная&lt;t5/&gt; и &lt;t6/&gt;ОказаниеУслуг&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T121651Z" creationid="lyserg" creationdate="20250513T113205Z">
+        <seg>Therefore, we will form the movements of the accumulation register &lt;t0/&gt;ОстаткиМатериалов&lt;t1/&gt; &lt;t2/&gt; for &lt;t3/&gt; two documents we created &lt;t4/&gt;ПриходнаяНакладная&lt;t5/&gt; and &lt;t6/&gt;ОказаниеУслуг&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Поэтому отметим в списке подсистем эти подсистемы (рис. 6.3).</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T164857Z" creationid="lyserg" creationdate="20250511T164857Z">
+        <seg>Therefore, we will mark these subsystems in the list of subsystems (pic. 6.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Представим&lt;t0/&gt;,&lt;t1/&gt; что&lt;t2/&gt; нас интересует информация о том, сколько и каких материалов есть у нас на складах.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T163631Z" creationid="lyserg" creationdate="20250511T163631Z">
+        <seg>Let's imagine&lt;t0/&gt;,&lt;t1/&gt; that&lt;t2/&gt; we are interested in information about how much and what kind of materials we have in our warehouses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Процедура ОбработкаПроведения(Отказ, Режим)</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114230Z" creationid="lyserg" creationdate="20250513T114230Z">
+        <seg>Процедура ОбработкаПроведения(Отказ, Режим)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Регистр накопления&lt;t0/&gt; – объект, предназначенный для описания структуры накопления данных.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T133911Z" creationid="lyserg" creationdate="20250513T114708Z">
+        <seg>Accumulation register&lt;t0/&gt; is an object intended for describing the structure of data accumulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Рис.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T165058Z" creationid="lyserg" creationdate="20250511T165058Z">
+        <seg>pic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Склад&lt;t0/&gt;, тип &lt;t1/&gt;СправочникСсылка.Склады&lt;t2/&gt;;</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T122352Z" creationid="lyserg" creationdate="20250513T112624Z">
+        <seg>Склад&lt;t0/&gt;, type &lt;t1/&gt;СправочникСсылка.Склады&lt;t2/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Создадим &lt;t2/&gt;атрибуты&lt;t3/&gt; регистра:</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T112417Z" creationid="lyserg" creationdate="20250513T112210Z">
+        <seg>We will create register&lt;t2/&gt; attributes&lt;t3/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Создание&lt;t0/&gt; регистра накопления</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T162900Z" creationid="lyserg" creationdate="20250511T162900Z">
+        <seg>Creating&lt;t0/&gt; accumulation register</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Также зададим и &lt;t0/&gt;П&lt;t1/&gt;редставление списка &lt;t2/&gt;как &lt;t3/&gt;Движения по регистру Остатки материалов&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T164745Z" creationid="lyserg" creationdate="20250511T164745Z">
+        <seg>We will also define the &lt;t0/&gt;R&lt;t1/&gt;epresentation of the list &lt;t2/&gt;as &lt;t3/&gt;Movements by the Material Remaining Register&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Эти данные будут храниться в таблицах в виде отдельных записей, каждая из которых имеет одинаковую структуру&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T163601Z" creationid="lyserg" creationdate="20250511T163549Z">
+        <seg>This data will be stored in tables as separate records, each of which has the same structure&lt;t6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Это сообщение еще раз подтверждает тот факт, что назначение регистра накопления в том, чтобы аккумулировать данные, поставляемые &lt;t4/&gt;другими&lt;t5/&gt; документами.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T113127Z" creationid="lyserg" creationdate="20250513T113127Z">
+        <seg>This message once again confirms the fact that the purpose of the accumulation register is to accumulate data supplied by &lt;t4/&gt;other&lt;t5/&gt; documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>Этот заголовок будет отображаться в окне списка записей регистра.</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250511T164756Z" creationid="lyserg" creationdate="20250511T164756Z">
+        <seg>This title will be displayed in the register entry list window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru-RU">
+        <seg>изменения будут утеряны!!!</seg>
+      </tuv>
+      <tuv lang="en" changeid="lyserg" changedate="20250513T114305Z" creationid="lyserg" creationdate="20250513T114305Z">
+        <seg>изменения будут утеряны!!!</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
